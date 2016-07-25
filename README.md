@@ -7,6 +7,8 @@ A quick run at Overpass Turbo shows 644 in Los Angeles and northern Orange Count
 
 Taging: `emergency=fire_hydrant`
 
+[OSM Wiki page](http://wiki.openstreetmap.org/wiki/Tag:emergency%3Dfire_hydrant)
+
 ## Next steps:
 
 1. Reach out to LAFD and request a shapefile of all fire hydrants
